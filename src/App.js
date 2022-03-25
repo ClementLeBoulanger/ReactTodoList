@@ -4,7 +4,7 @@ import Form from './Components/Form'
 function App() {
   return (
     <div className="App">
-      <h1 class="text-center mt-3">My React Todo List ⚛</h1>
+      <h1 className="text-center mt-3">My React Todo List ⚛</h1>
       <Form />
     </div>
   );
